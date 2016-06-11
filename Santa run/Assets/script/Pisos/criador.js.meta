@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 17b74702f1c0b1f48acafcde60338842
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - chao1: {instanceID: 0}
+  - chao2: {instanceID: 0}
+  - chao3: {instanceID: 0}
+  - chaoFurado1: {fileID: 100002, guid: f104eba93c43ef04d98f360a46c44d48, type: 2}
+  - chaoFurado2: {fileID: 100004, guid: c3ff95eebc4783e48998452ff370484b, type: 2}
+  - chaoObstaculo1: {fileID: 100000, guid: 4fc4741e28b03634bb4bfe7887eeb9e8, type: 2}
+  - chaoObstaculo2: {fileID: 100002, guid: 9c82e84560d1dae4ba1a324631ab2a36, type: 2}
+  - chaoPilar1: {fileID: 100002, guid: a74f65b075244d74387345a54516be47, type: 2}
+  - chaoPilar2: {fileID: 100000, guid: a8c004904936eaf469415cf0cf14a62d, type: 2}
+  - chaoNormal1: {fileID: 100000, guid: f9cc9835c5725f84f9fa89936981feeb, type: 2}
+  - chaoNormal2: {fileID: 100000, guid: 27e618a97ee4f9f46895bc86ba31b568, type: 2}
+  - chaoChamine: {fileID: 100004, guid: 80a7b7d2e518b914693b3b35f1d74b04, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

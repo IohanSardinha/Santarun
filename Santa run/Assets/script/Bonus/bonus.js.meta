@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 086cc7f34d9b7ee489d99ffd48cbbff1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ob1: {instanceID: 0}
+  - ob2: {instanceID: 0}
+  - ob3: {instanceID: 0}
+  - urso1: {fileID: 100002, guid: b995ac1ece0a1ce41b6356e0233aad74, type: 2}
+  - urso2: {fileID: 100000, guid: 05d7db4e55eb7e6469695e1773fe5944, type: 2}
+  - presente1: {fileID: 100004, guid: bcc272774dd88b04abf130029cea944d, type: 2}
+  - presente2: {fileID: 100000, guid: 6924db886dc4fa041aa5cc3cc894fc2c, type: 2}
+  - chapeu1: {fileID: 100002, guid: f5c77c04f43ffec49a8156c71c531f11, type: 2}
+  - chapeu2: {fileID: 100000, guid: 5c3a9ae504e227f48853039dc39323ba, type: 2}
+  - vela1: {fileID: 100004, guid: dd693f819e05dc7439c90944ca371751, type: 2}
+  - vela2: {fileID: 100000, guid: e3887b1b9443cf5449fdeb7c517aa49e, type: 2}
+  - nada1: {fileID: 100000, guid: 0f9ba8e0a16582a4b80c79156df03ead, type: 2}
+  - nada2: {fileID: 100000, guid: f991d2ba14a86124fb451cd8a3cc5af0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
